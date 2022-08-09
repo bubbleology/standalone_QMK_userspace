@@ -1,4 +1,4 @@
-SRC += Sturek.c
+SRC += bubbleology.c
 
 # Common feature for all keyboards
 BOOTMAGIC_ENABLE = yes
