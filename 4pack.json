@@ -1,0 +1,27 @@
+{
+    "author": "",
+    "documentation": "Wrapper based keymap",
+    "keyboard": "40percentclub/4pack",
+    "keymap": "bubbleology",
+    "layers": [
+        [ "TG(1)",
+          "TG(2)",    
+          "TG(3)",    
+          "TG(4)" ],
+        [ "TG(1)",
+          "KC_W",
+          "KC_T",
+          "KC_F" ],
+        [ "TG(2)",
+          "KC_B",
+          "KC_B",
+          "KC_Q" ],
+        [ "TG(3)",
+          "KC_M",
+          "KC_K",
+          "KC_D" ]
+    ],
+    "layout": "LAYOUT",
+    "notes": "",
+    "version": 1
+}
